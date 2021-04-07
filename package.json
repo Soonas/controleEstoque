@@ -1,0 +1,27 @@
+{
+  "name": "controleEstoque",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^7.1.0",
+    "webpack": "^5.28.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soonas/controleEstoque.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soonas/controleEstoque/issues"
+  },
+  "homepage": "https://github.com/Soonas/controleEstoque#readme"
+}
